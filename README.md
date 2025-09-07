@@ -52,13 +52,10 @@
 
 ### 🌐 Connect with Me  
 <p>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/sandaru-bandarigodage-107b7a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-LeenFX-red?style=for-the-badge&logo=youtube"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <a href="https://sandarusanleen.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
