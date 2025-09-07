@@ -30,22 +30,22 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandarusanleen&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandarusanleen&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarusanleen&theme=radical" alt="streak"/>
 </p>
 
 ---
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/sandarusanleen/sandarusanleen/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
