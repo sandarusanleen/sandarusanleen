@@ -45,7 +45,7 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/sandarusanleen/sandarusanleen/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/sandarusanleen/snk/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
