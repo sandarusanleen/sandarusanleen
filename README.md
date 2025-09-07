@@ -1,16 +1,13 @@
 <!-- Creative GitHub Profile README for Sandaru Sanleen (Leen) -->
 
-<h1 align="center">Hi 👋, I'm Sandaru Sanleen (Leen)</h1>
+<h1 align="center">Hi 👋, I'm Sandaru Sanleen </h1>
 <h3 align="center">💻 Web Developer | 🎓 IT Student | 🎥 Creator</h3>
 
 ---
 
 ### 👨‍💻 About Me  
 - 🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**  
-- 📚 Studying **BSc (Hons) Computing & Information Systems**  
-- 🌍 Creator of **Wonder Routes** (Travel Website)  
-- 🚀 Team project: **Agrolink Market**  
-- 🎥 Soon launching **LeenFX** YouTube Channel (Photo Editing + Tutorials)  
+- 📚 Studying **BSc (Hons) Computing & Information Systems**     
 - ⚡ Fun fact: I mix **code + design** to build creative projects  
 
 ---
